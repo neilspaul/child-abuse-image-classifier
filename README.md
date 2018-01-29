@@ -29,5 +29,6 @@ Model will be trained with real abusive images and improve the prediction accura
 We are also trying to train this model with more than 50,000 images. If you have any dataset for identifying faces, adult/kid, abusive images, please feel free to contribute.
 
 # Credits
-Kevinton B, Neil S Paul, Daniel Raj, Dhinkar P
+Kevinton B, Neil S Paul, Daniel Raj, Dhinkar P.
+
 Made during SRM Hackathon 18
